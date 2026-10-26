@@ -1,14 +1,6 @@
 <p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Nabil 👋 I'm a 🚀 Software Engineer 🚀 I ❤️ C++ ❤️">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1200&center=true&vCenter=true&width=700&lines=Hi,+I'm+Nabil;Software+Engineer;C%2B%2B+%7C+ASP.NET+Core+%7C+Backend" alt="Hi, I'm Nabil - Software Engineer" />
 </p>
-
-<!--
-How to make this gif ?
-I made mine with https://codesandbox.io/s/github-profile-2ijk7
-Then record your screen to a gif and save it in assets/github.gif
--->
-
-<h1 align="center">Hi, I'm Nabil 👋</h1>
 
 <p align="center">
   <b>Software Engineer</b> • Third-year student at the Faculty of Computers and Information, Zagazig University<br>
@@ -52,19 +44,19 @@ Then record your screen to a gif and save it in assets/github.gif
 ## :chart_with_upwards_trend: GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nabil404e&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabil404e&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
 ## :link: Contact
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.icons8.com/color/96/000000/gmail.png" width="48" alt="email"/></a>
+  <a href="mailto:an23456d@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" width="48" alt="email"/></a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.icons8.com/color/96/000000/linkedin.png" width="48" alt="linkedin"/></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.icons8.com/ios-glyphs/96/github.png" width="48" alt="github"/></a>
+  <a href="https://github.com/nabil404e"><img src="https://img.icons8.com/ios-glyphs/96/github.png" width="48" alt="github"/></a>
 </p>
 
 Icons by [icons8.com](https://icons8.com)
