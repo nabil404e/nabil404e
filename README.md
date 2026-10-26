@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=300&center=true&vCenter=true&width=700&lines=Hi,+I'm+Nabil;Software+Engineer;Back+End+.NET" alt="Hi, I'm Nabil - Software Engineer - Back End .NET" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=300&center=true&vCenter=true&width=700&lines=Hi,+I'm+Nabil;Software+Engineer;Back+End+.NET" alt="Hi, I'm Nabil - Software Engineer - Back End .NET" />
 </p>
 
 <p align="center">
@@ -24,8 +24,13 @@
 ![.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-- **Languages:** C++, C#
+- **Languages:** C++, C#, Python, JavaScript
+- **Frontend:** HTML, CSS, JavaScript
 - **Backend:** ASP.NET Core MVC, Entity Framework Core
 - **Database:** SQL Server
 - **Fundamentals:** OOP, Data Structures, Algorithms
@@ -37,7 +42,6 @@
 | **RPG Battle System** | Console-based RPG battle game built with a clean OOP design across 14+ header/source files | C++, OOP |
 | **Library Management System** | Web app for managing books, members, and borrowing | ASP.NET Core MVC, EF Core, SQL Server |
 | **University Management System** | Web app for managing university data | ASP.NET Core MVC |
-| **TechXpress** | Team project | _add your stack here_ |
 
 > 🔗 Add the repo link for each project in the table above.
 
@@ -55,8 +59,7 @@
 
 <p align="center">
   <a href="mailto:an23456d@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" width="48" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.icons8.com/color/96/000000/linkedin.png" width="48" alt="linkedin"/></a>
-  <a href="https://github.com/nabil404e"><img src="https://img.icons8.com/ios-glyphs/96/github.png" width="48" alt="github"/></a>
+  <a href="https://www.linkedin.com/in/nabilebrahim/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" width="48" alt="linkedin"/></a>
 </p>
 
 Icons by [icons8.com](https://icons8.com)
