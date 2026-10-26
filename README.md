@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Nabil 👋 I'm a 🚀 Software Engineer 🚀 I ❤️ C++ ❤️">
+</p>
+
+<!--
+How to make this gif ?
+I made mine with https://codesandbox.io/s/github-profile-2ijk7
+Then record your screen to a gif and save it in assets/github.gif
+-->
+
 <h1 align="center">Hi, I'm Nabil 👋</h1>
 
 <p align="center">
