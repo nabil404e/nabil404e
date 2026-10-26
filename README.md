@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1200&center=true&vCenter=true&width=700&lines=Hi,+I'm+Nabil;Software+Engineer;C%2B%2B+%7C+ASP.NET+Core+%7C+Backend" alt="Hi, I'm Nabil - Software Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=1500&pause=300&center=true&vCenter=true&width=700&lines=Hi,+I'm+Nabil;Software+Engineer;Back+End+.NET" alt="Hi, I'm Nabil - Software Engineer - Back End .NET" />
 </p>
 
 <p align="center">
